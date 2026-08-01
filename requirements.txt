@@ -8,5 +8,5 @@ pytz
 apscheduler
 Flask
 gunicorn
-httpx>=0.28.1
-httpcore>=1.0.8
+httpx==0.28.1
+httpcore==1.0.8
