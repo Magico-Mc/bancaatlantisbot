@@ -1,0 +1,12 @@
+python-telegram-bot==20.5
+requests
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+pytz
+apscheduler
+Flask
+gunicorn
+httpx
+httpcore
